@@ -1,0 +1,15 @@
+.git/
+
+
+
+# Python cache files
+__pycache__/
+models/__pycache__/
+tabs/__pycache__/
+database/__pycache__/
+video/__pycache__/
+*/__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
